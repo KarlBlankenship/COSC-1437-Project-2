@@ -1,0 +1,11 @@
+Number          Even            Prime           Circular Prime  Perfect         Perfect Square  Cube            
+37              false           true            true            false           false           false           
+30              true            false           false           false           false           false           
+26              true            false           false           false           false           false           
+68              true            false           false           false           false           false           
+55              false           false           false           false           false           false           
+21              false           false           false           false           false           false           
+24              true            false           false           false           false           false           
+37              false           true            true            false           false           false           
+13              false           true            true            false           false           false           
+78              true            false           false           false           false           false           
